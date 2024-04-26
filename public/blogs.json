@@ -1,0 +1,52 @@
+[
+    {
+    "id": 1,
+    "cover": "https://app.gemoo.com/share/image-annotation/640862534125015040?codeId=M07a469YWz5RX&origin=imageurlgenerator",
+    "title": "Top 5 Ways to Improve Your Programming Skills",
+    "author": "John Doe",
+    "author_img": "https://app.gemoo.com/share/image-annotation/641215523469701120?codeId=P57EO1y79dQqL",
+    "posted_data": "2024-04-20",
+    "reading_time": 5,
+    "hashtags": ["programming", "tips", "software_development"]
+    },
+    {
+    "id": 2,
+    "cover": "https://app.gemoo.com/share/image-annotation/641211021408653312?codeId=M0718agKr0w1R&origin=imageurlgenerator&card=641211019122757632",
+    "title": "Exploring the Wonders of the Natural World",
+    "author": "Jane Smith",
+    "author_img": "https://app.gemoo.com/share/image-annotation/641215596077297664?codeId=P57EO1y79dQqL",
+    "posted_data": "2024-04-21",
+    "reading_time": 8,
+    "hashtags": ["nature", "travel", "photography"]
+    },
+    {
+    "id": 3,
+    "cover": "https://app.gemoo.com/share/image-annotation/641211310018703360?codeId=M0718agKr0w1R",
+    "title": "The Power of Positive Thinking",
+    "author": "Michael Lee",
+    "author_img": "https://app.gemoo.com/share/image-annotation/641215643594567680?codeId=P57EO1y79dQqL",
+    "posted_data": "2024-04-19",
+    "reading_time": 3,
+    "hashtags": ["mindset", "motivation", "psychology"]
+    },
+    {
+    "id": 4,
+    "cover": "https://app.gemoo.com/share/image-annotation/641211529951236096?codeId=M0718agKr0w1R",
+    "title": "A Beginner's Guide to Machine Learning",
+    "author": "Sarah Garcia",
+    "author_img": "https://app.gemoo.com/share/image-annotation/641215693330632704?codeId=P57EO1y79dQqL",
+    "posted_data": "2024-04-18",
+    "reading_time": 12,
+    "hashtags": ["artificial_intelligence", "data_science", "technology"]
+    },
+    {
+    "id": 5,
+    "cover": "https://app.gemoo.com/share/image-annotation/640862534125015040?codeId=M07a469YWz5RX&origin=imageurlgenerator",
+    "title": "Delicious Recipes for a Healthy Diet",
+    "author": "David Kim",
+    "author_img": "https://placehold.co/",
+    "posted_data": "2024-04-17",
+    "reading_time": 7,
+    "hashtags": ["food", "health", "recipes"]
+    }
+    ]
